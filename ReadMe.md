@@ -7,9 +7,12 @@ This project used the following tools:
 * React
 * Socket.io
 * MongoDB
-* Quil Text-Editor
+* Quil text editor
+  * This is a popular library for making a text-editor 
 
 # Features
+
+* Quil text-editor
 
 ## Commands (how to run the app) 
 
