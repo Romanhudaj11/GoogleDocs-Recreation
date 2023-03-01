@@ -9,7 +9,7 @@ This project used the following tools:
 * MongoDB
 * Quil Text-Editor
 
-## Scripts Available
+## Commands (how to run the app) 
 
 In the project directory, you can run the following commands: 
 
