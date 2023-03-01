@@ -2,6 +2,12 @@
 
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project used the following tools: 
+
+* React
+* Socket.io
+* MongoDB
+
 ## Scripts Available
 
 In the project directory, you can run the following commands: 
