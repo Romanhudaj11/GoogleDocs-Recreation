@@ -7,6 +7,7 @@ This project used the following tools:
 * React
 * Socket.io
 * MongoDB
+* Quil Text-Editor
 
 ## Scripts Available
 
